@@ -2,8 +2,8 @@
 
 Cualquiera de estos scripts sirven para crear un ambiente de python.
 
-# Tener en cuenta.
+## Tener en cuenta.
 
 - Debe de haber un archivo txt llamado requirements_python.txt el cual debe de tener los modulos que se requieren instalar en el ambiente.
 
-- Si desea usar script.ps1 no es compatible con PowerShell inferior a 7. Configurar pc siguiendo los pasos de [](https://tecnotraffic.net/como-configurar-el-script-ps1-para-que-se-abra-con-powershell-de-forma-predeterminada/)
+- Si desea usar script.ps1 no es compatible con PowerShell inferior a 7. Configurar pc siguiendo los pasos narrados en [este link](https://tecnotraffic.net/como-configurar-el-script-ps1-para-que-se-abra-con-powershell-de-forma-predeterminada/).
